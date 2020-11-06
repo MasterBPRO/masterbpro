@@ -7,5 +7,6 @@
 - ⚡ Fun fact: =)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masterbpro&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masterbpro&show_icons=true&theme=dark)
+
 
