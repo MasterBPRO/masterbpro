@@ -21,6 +21,7 @@ class Me:
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 
+**Statistics**
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=masterbpro&show_icons=true&theme=dark)
 
